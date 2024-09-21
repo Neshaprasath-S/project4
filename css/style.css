@@ -708,6 +708,9 @@ h6 {
   }
 }
 @media (max-width: 590px) {
+  .header {
+    height: 3rem;
+  }
   body,
   html {
     font-size: 14px;
