@@ -708,11 +708,14 @@ h6 {
   }
 }
 @media (max-width: 590px) {
+  .navbar {
+    padding: 5px;
+  }
   .navbar-brand img {
     height: 20px;
   }
   .navbar .navbar-toggler-icon {
-    font-size: 10px;
+    font-size: 8px;
   }
   body,
   html {
