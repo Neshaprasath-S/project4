@@ -715,10 +715,10 @@ h6 {
     padding: 5px;
   }
   .navbar-brand img {
-    height: 20px;
+    height: 25px;
   }
   .navbar .navbar-toggler-icon {
-    font-size: 12px;
+    font-size: 16px;
   }
   body,
   html {
