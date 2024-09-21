@@ -708,8 +708,8 @@ h6 {
   }
 }
 @media (max-width: 590px) {
-  .header {
-    height: 3rem;
+  .nav-logo {
+    height: 30px;
   }
   body,
   html {
